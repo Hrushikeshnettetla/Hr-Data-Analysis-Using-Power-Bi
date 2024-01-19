@@ -1,0 +1,1 @@
+ In this project i used Different tools and Visualization techniques like bar charts, pie chart, tables, filters, measures etc. that are available in power bi and made a report through dashboards. And the Tailored dashboards provide a comprehensive overview of key HR metrics, enabling stakeholders to visualize trends and patterns effortlessly.
